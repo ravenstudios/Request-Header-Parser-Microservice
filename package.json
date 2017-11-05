@@ -1,0 +1,23 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "free code camp backend requset header parser microservice",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravenstudios/Request-Header-Parser-Microservice.git"
+  },
+  "author": "Ravenstudios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravenstudios/Request-Header-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/ravenstudios/Request-Header-Parser-Microservice#readme"
+}
